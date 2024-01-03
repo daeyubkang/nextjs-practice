@@ -1,0 +1,56 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "asd",
+      "author": "asdasd",
+      "id": 13
+    },
+    {
+      "title": "sa",
+      "author": "asas",
+      "id": 14
+    },
+    {
+      "title": "qwe",
+      "author": "qweqwe",
+      "id": 15
+    },
+    {
+      "title": "123",
+      "author": "qwe",
+      "id": 16
+    },
+    {
+      "title": "111",
+      "author": "22222",
+      "id": 17
+    },
+    {
+      "title": "xcv",
+      "author": "xcvxcv",
+      "id": 20
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
